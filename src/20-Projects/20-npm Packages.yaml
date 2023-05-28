@@ -2,7 +2,5 @@
   url: https://github.com/siakhooi/ts-number-to-chinese-words
 - name: scp-sync-to-local (JS)
   url: https://github.com/siakhooi/nodejs-scp-sync-to-local
-- name: fn-html (JS)
-  url: https://github.com/siakhooi/nodejs-fn-html
 - name: url-shortener (ExpressJs)
   url: https://github.com/siakhooi/expressjs-url-shortener

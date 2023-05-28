@@ -1,8 +1,0 @@
-- name: Java CI Kit@Github
-  url: https://github.com/siakhooi/docker-java-cikit
-- name: Java CI Kit@DockerHub
-  url: https://hub.docker.com/r/siakhooi/java-cikit
-- name: MkDocs CI Kit@Github
-  url: https://github.com/siakhooi/docker-mkdocs-cikit
-- name: MkDocs CI Kit@DockerHub
-  url: https://hub.docker.com/r/siakhooi/mkdocs-cikit
