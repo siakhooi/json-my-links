@@ -7,3 +7,7 @@
 - name: 中文假文產生器
   url: https://textgen.cqd.tw/
   description: Zh-tw
+- name: PDF Merge Tool
+  url: http://pdfmergetool.sourceforge.net/
+- name: PDFsam Basic
+  url: https://pdfsam.org/pdfsam-basic/
