@@ -1,0 +1,6 @@
+- name: junit.org
+  url: https://junit.org
+- name: site.mockito.org
+  url: https://site.mockito.org
+- name: Jacoco.org
+  url: https://www.jacoco.org/jacoco/

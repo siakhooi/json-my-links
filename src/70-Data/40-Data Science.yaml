@@ -1,0 +1,6 @@
+- name: R-project.org
+  url: https://www.r-project.org
+- name: Tableau
+  url: https://www.tableau.com
+- name: Tableau Public
+  url: https://public.tableau.com

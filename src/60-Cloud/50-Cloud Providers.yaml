@@ -1,0 +1,8 @@
+- name: GCP
+  url: https://cloud.google.com
+- name: Azure
+  url: https://azure.microsoft.com
+- name: AWS
+  url: https://aws.amazon.com
+- name: Oracle Cloud
+  url: https://www.oracle.com/cloud/

@@ -1,0 +1,5 @@
+- name: dns.google.com
+  url: https://dns.google.com
+- name: Freenom.com
+  url: https://www.freenom.com
+  description: Domain Name for Free

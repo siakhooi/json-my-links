@@ -1,0 +1,8 @@
+- name: MySQL
+  url: https://www.mysql.com
+- name: MariaDB
+  url: https://mariadb.com
+- name: HyperSQL
+  url: http://hsqldb.org
+- name: Apache Derby
+  url: https://db.apache.org/derby/

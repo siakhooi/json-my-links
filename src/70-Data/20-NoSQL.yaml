@@ -1,0 +1,6 @@
+- name: MongoDB
+  url: https://www.mongodb.com
+- name: Apache CouchDB
+  url: https://couchdb.apache.org
+- name: Apache Cassandra
+  url: https://cassandra.apache.org

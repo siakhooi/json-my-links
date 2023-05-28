@@ -1,0 +1,15 @@
+- name: icic.gitlab.io/java/
+  url: https://icic.gitlab.io/java/
+- name: icic.gitlab.io/maven/
+  url: https://icic.gitlab.io/maven/
+- name: icic.gitlab.io/javatest/
+  url: https://icic.gitlab.io/javatest/
+  description: junit, Mockito
+- name: icic.gitlab.io/spring/
+  url: https://icic.gitlab.io/spring/
+- name: icic.gitlab.io/thymeleaf/
+  url: https://icic.gitlab.io/thymeleaf/
+- name: icic.gitlab.io/gradle/
+  url: https://icic.gitlab.io/gradle/
+- name: icic.gitlab.io/hibernate/
+  url: https://icic.gitlab.io/hibernate/

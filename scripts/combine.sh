@@ -7,7 +7,7 @@ ls -d * | sort -n | while read -r group1; do
   name1=$(echo $group1 | sed 's/[^-]*-//')
   echo "  - name: $name1"
   echo "    menu:"
-  cd $group1 || exit
+  cd "$group1" || exit
 
   ls -d *.yaml | sort -n | while read -r group2; do
     name2=$(echo $group2 | sed 's/[^-]*-//' | sed 's/\.yaml$//')

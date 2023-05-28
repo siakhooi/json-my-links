@@ -1,0 +1,26 @@
+- name: OpenJDK
+  url: https://openjdk.java.net
+- name: Oracle Java
+  url: https://www.oracle.com/java/
+- name: Amazon Corretto
+  url: https://aws.amazon.com/corretto/
+- name: Eclipse OpenJ9
+  url: https://www.eclipse.org/openj9/
+- name: Microsoft OpenJDK
+  url: https://www.microsoft.com/openjdk
+- name: Google Java Style
+  url: https://google.github.io/styleguide/javaguide.html
+- name: Groovy-lang.org
+  url: http://www.groovy-lang.org
+- name: spring.io
+  url: https://spring.io
+- name: spring initializr
+  url: https://start.spring.io
+- name: hibernate.org
+  url: https://hibernate.org
+- name: thymeleaf.org
+  url: https://www.thymeleaf.org
+- name: commons.apache.org
+  url: http://commons.apache.org
+- name: DocJar.com
+  url: http://www.docjar.com

@@ -1,0 +1,9 @@
+- name: BlindTextGenerator.com
+  url: https://www.blindtextgenerator.com/lorem-ipsum
+  description: En
+- name: 亂數假文產生器
+  url: http://www.richyli.com/tool/loremipsum/
+  description: Zh-tw
+- name: 中文假文產生器
+  url: https://textgen.cqd.tw/
+  description: Zh-tw

@@ -1,0 +1,16 @@
+- name: Ubuntu.com
+  url: https://ubuntu.com
+- name: getFedora.org
+  url: https://getfedora.org
+- name: AlpineLinux.org
+  url: https://www.alpinelinux.org
+- name: CentOS.org
+  url: https://www.centos.org
+- name: Kernel.org
+  url: https://www.kernel.org
+- name: Linux.org
+  url: https://www.linux.org
+- name: GNU.org
+  url: https://www.gnu.org
+- name: Apache.org
+  url: https://www.apache.org

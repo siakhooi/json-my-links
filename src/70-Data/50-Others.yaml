@@ -1,0 +1,8 @@
+- name: Apache NiFi
+  url: https://nifi.apache.org
+- name: DB-Engines.com
+  url: https://db-engines.com
+- name: HeidiSql.com
+  url: https://www.heidisql.com
+- name: DBeaver.io
+  url: https://dbeaver.io

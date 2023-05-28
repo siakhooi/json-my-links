@@ -1,0 +1,14 @@
+- name: reactjs.org
+  url: https://reactjs.org
+- name: create-react-app.dev
+  url: https://create-react-app.dev
+- name: React DevTools (Chrome Extension)
+  url: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+- name: react-responsive (npm)
+  url: https://www.npmjs.com/package/react-responsive
+- name: react-icons (npm)
+  url: https://github.com/react-icons/react-icons
+- name: react-test-renderer (npm)
+  url: https://www.npmjs.com/package/react-test-renderer
+- name: react prop-types (npm)
+  url: https://www.npmjs.com/package/prop-types

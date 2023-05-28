@@ -1,0 +1,6 @@
+- name: nodejs.org
+  url: https://nodejs.org
+- name: Google's TypeScript style guide
+  url: https://github.com/google/ts-style
+- name: Typescriptlang.org
+  url: https://www.typescriptlang.org

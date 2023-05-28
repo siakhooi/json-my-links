@@ -1,0 +1,11 @@
+- name: CodePen.io
+  url: https://codepen.io
+  description: build, test, and discover front-end code
+- name: TutorialsPoint.com/CodingGround
+  url: https://www.tutorialspoint.com/codingground.htm
+- name: ReplIt.com
+  url: https://replit.com
+- name: Babeljs.io/repl
+  url: https://babeljs.io/repl
+- name: PythonOnlines.com
+  url: https://pythononlines.com

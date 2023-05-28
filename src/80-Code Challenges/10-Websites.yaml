@@ -1,0 +1,12 @@
+- name: Codility.com
+  url: https://app.codility.com/programmers/
+- name: HackerRank.com
+  url: https://www.hackerrank.com
+- name: CoderByte.com
+  url: https://coderbyte.com
+- name: TopCoder.com
+  url: https://www.topcoder.com
+- name: CodeSignal.com
+  url: https://app.codesignal.com
+- name: CodeWars.com
+  url: https://www.codewars.com

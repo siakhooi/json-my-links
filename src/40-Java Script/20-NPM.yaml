@@ -1,0 +1,12 @@
+- name: npmjs.com
+  url: https://www.npmjs.com
+- name: semver calculator
+  url: https://semver.npmjs.com
+- name: npms.io
+  url: https://npms.io
+- name: yarnpkg.com
+  url: https://yarnpkg.com
+- name: jsdelivr.com
+  url: https://www.jsdelivr.com
+- name: webpack.js.org
+  url: https://webpack.js.org

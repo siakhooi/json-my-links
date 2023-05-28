@@ -1,0 +1,9 @@
+- name: PNG Wing
+  url: https://www.pngwing.com
+  description: download logo
+- name: ICOConverter.com
+  url: https://www.icoconverter.com
+- name: SVGtoPNG.com
+  url: https://svgtopng.com
+- name: the-qrcode-generator.com
+  url: https://www.the-qrcode-generator.com

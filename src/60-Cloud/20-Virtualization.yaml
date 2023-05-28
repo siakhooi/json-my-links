@@ -1,0 +1,16 @@
+- name: docker.com
+  url: https://docker.com
+- name: hub.docker.com
+  url: https://hub.docker.com
+- name: PodMan.io
+  url: https://podman.io
+- name: kubernetes.io
+  url: https://kubernetes.io
+- name: Cri-o.io
+  url: https://cri-o.io
+- name: Helm.sh
+  url: https://helm.sh
+- name: ArtifactHub.io
+  url: https://artifacthub.io
+- name: ChartMuseum.com
+  url: https://chartmuseum.com

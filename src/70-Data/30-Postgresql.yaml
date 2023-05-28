@@ -1,0 +1,6 @@
+- name: PostgreSQL
+  url: https://www.postgresql.org
+- name: pgadmin.org
+  url: https://www.pgadmin.org
+- name: node-postgres.com
+  url: https://node-postgres.com

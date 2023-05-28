@@ -1,0 +1,8 @@
+- name: JestJs.io
+  url: https://jestjs.io
+- name: ESLint.org
+  url: https://eslint.org
+- name: JSLint.com
+  url: https://www.jslint.com
+- name: JSHint.com
+  url: https://jshint.com

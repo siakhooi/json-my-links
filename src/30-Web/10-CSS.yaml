@@ -1,0 +1,12 @@
+- name: W3.CSS
+  url: https://www.w3schools.com/w3css/default.asp
+- name: Bootstrap
+  url: https://getbootstrap.com
+- name: sass-lang.com
+  url: https://sass-lang.com
+- name: sass (npm)
+  url: https://www.npmjs.com/package/sass
+- name: Material.io
+  url: https://material.io
+- name: CssReference.io
+  url: https://cssreference.io

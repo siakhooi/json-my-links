@@ -1,0 +1,8 @@
+- name: Apache Maven
+  url: https://maven.apache.org
+- name: search.maven.org
+  url: https://search.maven.org
+- name: gradle.org
+  url: https://gradle.org
+- name: Apache Ant
+  url: https://ant.apache.org

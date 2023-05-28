@@ -1,0 +1,12 @@
+- name: angular.io
+  url: https://angular.io
+- name: angularjs.org
+  url: https://angularjs.org
+- name: VueJs.org
+  url: https://vuejs.org
+- name: ExpressJs.com
+  url: https://expressjs.com
+- name: BabelJs.io
+  url: https://babeljs.io
+- name: Axios (HTTP Client)
+  url: https://axios-http.com

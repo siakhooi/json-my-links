@@ -1,0 +1,16 @@
+- name: ProjectLombok.org
+  url: https://projectlombok.org
+- name: JCommander.org
+  url: https://jcommander.org
+- name: FasterXML/Jackson
+  url: https://github.com/FasterXML/jackson
+- name: SpringFox
+  url: http://springfox.github.io/springfox/
+- name: Swagger2Markup
+  url: https://github.com/Swagger2Markup
+- name: Lucene.apache.org
+  url: https://lucene.apache.org
+- name: Camunda Modeler
+  url: https://camunda.com/download/modeler/
+- name: JGrapht.org
+  url: https://jgrapht.org
