@@ -1,0 +1,12 @@
+name: Deployment
+on:
+  push:
+    branches:
+      - "*"
+
+jobs:
+  build:
+    uses: ./.github/workflows/build-json.yml
+  deploy:
+    needs: build
+    uses: ./.github/workflows/deploy-gh-pages.yml

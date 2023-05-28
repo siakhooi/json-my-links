@@ -1,0 +1,8 @@
+- name: G5 Application Framework (Java)
+  url: https://github.com/siakhooi/java-g5-framework
+- name: MyWise Wiki Framework (PHP)
+  url: https://github.com/siakhooi/mywise
+- name: MyWise@DockerHub
+  url: https://hub.docker.com/r/siakhooi/mywise
+- name: MyWise@SourceForge (Abandoned)
+  url: https://sourceforge.net/projects/mywise/

@@ -1,0 +1,6 @@
+- name: OpenSource.org/Licenses
+  url: https://opensource.org/licenses/alphabetical
+- name: SPDX.org/Licenses
+  url: https://spdx.org/licenses/
+- name: ChooseALicense.com
+  url: https://choosealicense.com

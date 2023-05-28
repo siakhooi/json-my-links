@@ -1,0 +1,16 @@
+- name: VS Code
+  url: https://code.visualstudio.com
+- name: VSCodeThemes.com
+  url: https://vscodethemes.com
+- name: VSCodium.com
+  url: https://vscodium.com
+- name: Eclipse
+  url: https://www.eclipse.org
+- name: Notepad++
+  url: https://notepad-plus-plus.org
+- name: NetBeans
+  url: https://netbeans.org
+- name: IntelliJ IDEA
+  url: https://www.jetbrains.com
+- name: Atom (Editor)
+  url: https://atom.io
