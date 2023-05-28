@@ -4,3 +4,5 @@
   url: https://crontab.guru
 - name: Github Action Lint
   url: https://rhysd.github.io/actionlint/
+- name: gitignore.io
+  url: http://gitignore.io

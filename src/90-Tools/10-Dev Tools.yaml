@@ -1,0 +1,14 @@
+- name: VS Code
+  url: https://code.visualstudio.com
+- name: Notepad++
+  url: https://notepad-plus-plus.org
+- name: Windows Terminal
+  url: https://github.com/microsoft/terminal
+- name: winget
+  url: https://docs.microsoft.com/en-us/windows/package-manager/
+- name: Winstall.app (winget)
+  url: https://winstall.app
+- name: VSCodeThemes.com
+  url: https://vscodethemes.com
+- name: VSCodium.com
+  url: https://vscodium.com
