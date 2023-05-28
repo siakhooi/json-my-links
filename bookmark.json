@@ -1,0 +1,343 @@
+{
+  "menu": [
+    {
+      "name": "General",
+      "menu": [
+        {
+          "name": "References",
+          "menu": [
+            {
+              "name": "Oracle EBS R12",
+              "url": "http://docs.oracle.com/cd/E26401_01/index.htm"
+            },
+            {
+              "name": "Oracle Cloud Applications",
+              "url": "https://docs.oracle.com/en/cloud/saas/index.html"
+            },
+            {
+              "name": "w3schools.com",
+              "url": "https://www.w3schools.com"
+            },
+            {
+              "name": "AgileManifesto.org",
+              "url": "https://agilemanifesto.org"
+            },
+            {
+              "name": "PointingPoker.com",
+              "url": "https://www.pointingpoker.com"
+            },
+            {
+              "name": "WheelofNames.com",
+              "url": "https://wheelofnames.com"
+            }
+          ]
+        },
+        {
+          "name": "Open Source Guide",
+          "menu": [
+            {
+              "name": "Semantic Versioning 2.0.0",
+              "url": "https://semver.org"
+            },
+            {
+              "name": "KeepAChangeLog.com",
+              "url": "https://keepachangelog.com"
+            },
+            {
+              "name": "MakeAReadme.com",
+              "url": "https://www.makeareadme.com"
+            },
+            {
+              "name": "OpenSource.Guide",
+              "url": "https://opensource.guide"
+            }
+          ]
+        },
+        {
+          "name": "Licenses",
+          "menu": [
+            {
+              "name": "OpenSource.org/Licenses",
+              "url": "https://opensource.org/licenses/alphabetical"
+            },
+            {
+              "name": "SPDX.org/Licenses",
+              "url": "https://spdx.org/licenses/"
+            },
+            {
+              "name": "ChooseALicense.com",
+              "url": "https://choosealicense.com"
+            }
+          ]
+        },
+        {
+          "name": "IDE",
+          "menu": [
+            {
+              "name": "VS Code",
+              "url": "https://code.visualstudio.com"
+            },
+            {
+              "name": "VSCodeThemes.com",
+              "url": "https://vscodethemes.com"
+            },
+            {
+              "name": "VSCodium.com",
+              "url": "https://vscodium.com"
+            },
+            {
+              "name": "Eclipse",
+              "url": "https://www.eclipse.org"
+            },
+            {
+              "name": "Notepad++",
+              "url": "https://notepad-plus-plus.org"
+            },
+            {
+              "name": "NetBeans",
+              "url": "https://netbeans.org"
+            },
+            {
+              "name": "IntelliJ IDEA",
+              "url": "https://www.jetbrains.com"
+            },
+            {
+              "name": "Atom (Editor)",
+              "url": "https://atom.io"
+            }
+          ]
+        },
+        {
+          "name": "Quality Analysis",
+          "menu": [
+            {
+              "name": "SonarCloud.io",
+              "url": "https://sonarcloud.io"
+            },
+            {
+              "name": "CodeClimate.com",
+              "url": "https://codeclimate.com"
+            },
+            {
+              "name": "Coveralls.io",
+              "url": "https://coveralls.io"
+            },
+            {
+              "name": "Codecov.io",
+              "url": "https://codecov.io"
+            },
+            {
+              "name": "Codacy.com",
+              "url": "https://www.codacy.com"
+            },
+            {
+              "name": "codefactor.io",
+              "url": "https://www.codefactor.io"
+            },
+            {
+              "name": "Snyk.io",
+              "url": "https://app.snyk.io"
+            },
+            {
+              "name": "lgtm.com",
+              "url": "https://lgtm.com"
+            },
+            {
+              "name": "scan.coverity.com",
+              "url": "https://scan.coverity.com"
+            }
+          ]
+        },
+        {
+          "name": "Rest Tools",
+          "menu": [
+            {
+              "name": "Insomnia",
+              "url": "https://insomnia.rest"
+            },
+            {
+              "name": "Postman",
+              "url": "https://www.postman.com"
+            },
+            {
+              "name": "swagger.io",
+              "url": "https://swagger.io"
+            },
+            {
+              "name": "editor.swagger.io",
+              "url": "https://editor.swagger.io"
+            }
+          ]
+        },
+        {
+          "name": "Cheat Sheets",
+          "menu": [
+            {
+              "name": "VS Code Keyboard Shortcuts",
+              "url": "https://https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"
+            },
+            {
+              "name": "Excel Functions List",
+              "url": "https://www.excelfunctions.net/excel-functions-list.html"
+            },
+            {
+              "name": "Outlook 2013 Keyboard Shortcuts",
+              "url": "http://www.mssmallbiz.com/ericligman/Key_Shorts/Outlook%202013%20Keyboard%20Shortcuts.pdf"
+            },
+            {
+              "name": "Handy One-Liners For AWK",
+              "url": "https://catonmat.net/blog/wp-content/uploads/2008/09/awk1line.txt"
+            },
+            {
+              "name": "asciitable.com",
+              "url": "https://www.asciitable.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "menu": [
+        {
+          "name": "My Profiles",
+          "menu": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/siakhooi/"
+            },
+            {
+              "name": "GitHub Pages",
+              "url": "https://siakhooi.github.io"
+            },
+            {
+              "name": "npmjs",
+              "url": "https://www.npmjs.com/~siakhooi"
+            },
+            {
+              "name": "Docker Hub",
+              "url": "https://hub.docker.com/u/siakhooi"
+            },
+            {
+              "name": "SonarCloud.io",
+              "url": "https://sonarcloud.io/organizations/siakhooi/projects"
+            },
+            {
+              "name": "CoverAlls.io",
+              "url": "https://coveralls.io/github/siakhooi"
+            },
+            {
+              "name": "Codecov.io",
+              "url": "https://app.codecov.io/gh/siakhooi"
+            },
+            {
+              "name": "Codacy.com",
+              "url": "https://app.codacy.com/gh/siakhooi"
+            },
+            {
+              "name": "GitLab",
+              "url": "https://siakhooi.gitlab.io"
+            },
+            {
+              "name": "BuyMeACoffee.com",
+              "url": "https://www.buymeacoffee.com/siakhooi"
+            },
+            {
+              "name": "Ko-Fi.com",
+              "url": "https://ko-fi.com/siakhooi"
+            },
+            {
+              "name": "ReplIt.com",
+              "url": "https://replit.com/@siakhooi"
+            }
+          ]
+        },
+        {
+          "name": "npm Packages",
+          "menu": [
+            {
+              "name": "number-to-chinese-words (TS)",
+              "url": "https://github.com/siakhooi/ts-number-to-chinese-words"
+            },
+            {
+              "name": "scp-sync-to-local (JS)",
+              "url": "https://github.com/siakhooi/nodejs-scp-sync-to-local"
+            },
+            {
+              "name": "fn-html (JS)",
+              "url": "https://github.com/siakhooi/nodejs-fn-html"
+            },
+            {
+              "name": "url-shortener (ExpressJs)",
+              "url": "https://github.com/siakhooi/expressjs-url-shortener"
+            }
+          ]
+        },
+        {
+          "name": "Abandoned Projects",
+          "menu": [
+            {
+              "name": "G5 Application Framework (Java)",
+              "url": "https://github.com/siakhooi/java-g5-framework"
+            },
+            {
+              "name": "MyWise Wiki Framework (PHP)",
+              "url": "https://github.com/siakhooi/mywise"
+            },
+            {
+              "name": "MyWise@DockerHub",
+              "url": "https://hub.docker.com/r/siakhooi/mywise"
+            },
+            {
+              "name": "MyWise@SourceForge (Abandoned)",
+              "url": "https://sourceforge.net/projects/mywise/"
+            }
+          ]
+        },
+        {
+          "name": "Starter Containers",
+          "menu": [
+            {
+              "name": "Starter-Web@Github",
+              "url": "https://github.com/siakhooi/docker-starter-web"
+            },
+            {
+              "name": "Starter-Web@DockerHub",
+              "url": "https://hub.docker.com/r/siakhooi/starter-web"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "menu": [
+        {
+          "name": "Password Generators",
+          "menu": [
+            {
+              "name": "LastPass",
+              "url": "https://www.lastpass.com/password-generator"
+            },
+            {
+              "name": "BitWarden",
+              "url": "https://bitwarden.com/password-generator/"
+            },
+            {
+              "name": "1Password",
+              "url": "https://1password.com/password-generator/"
+            },
+            {
+              "name": "Norton",
+              "url": "https://my.norton.com/extspa/passwordmanager?path=pwd-gen"
+            },
+            {
+              "name": "PasswordsGenerator.net",
+              "url": "https://passwordsgenerator.net"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
