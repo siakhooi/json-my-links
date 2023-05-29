@@ -8,7 +8,7 @@
   url: https://www.alpinelinux.org
 - name: Rocky Linux
   url: https://rockylinux.org
-  - name: getFedora.org
+- name: getFedora.org
   url: https://getfedora.org
 - name: CentOS.org
   url: https://www.centos.org
