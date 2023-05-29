@@ -1,0 +1,17 @@
+- name: My APT Repository
+  url: https://github.com/siakhooi/apt
+- name: shed
+  url: https://github.com/siakhooi/shed
+  description: manage k8s environments
+- name: image runner
+  url: https://github.com/siakhooi/image-runner
+- name: image sitter
+  url: https://github.com/siakhooi/image-sitter
+- name: dev utils
+  url: https://github.com/siakhooi/bash-devutils
+- name: text utils
+  url: https://github.com/siakhooi/bash-textutils
+- name: echo colors
+  url: https://github.com/siakhooi/bash-devutils-echo-colors
+- name: date formats
+  url: https://github.com/siakhooi/bash-devutils-date-formats
