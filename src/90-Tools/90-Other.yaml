@@ -2,3 +2,13 @@
   url: https://windows96.net
 - name: yt-dl.org
   url: https://yt-dl.org
+- name: Eclipse
+  url: https://www.eclipse.org
+- name: NetBeans
+  url: https://netbeans.org
+- name: IntelliJ IDEA
+  url: https://www.jetbrains.com
+- name: Atom (Editor)
+  url: https://atom.io
+- name: Filezilla-project.org
+  url: https://filezilla-project.org
