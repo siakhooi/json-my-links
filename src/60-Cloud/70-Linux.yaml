@@ -1,9 +1,15 @@
 - name: Ubuntu.com
   url: https://ubuntu.com
-- name: getFedora.org
-  url: https://getfedora.org
+- name: Debian
+  url: https://www.debian.org
+- name: busybox
+  url: https://www.busybox.net
 - name: AlpineLinux.org
   url: https://www.alpinelinux.org
+- name: Rocky Linux
+  url: https://rockylinux.org
+  - name: getFedora.org
+  url: https://getfedora.org
 - name: CentOS.org
   url: https://www.centos.org
 - name: Kernel.org

@@ -1,0 +1,11 @@
+- name: Electron
+  url: https://www.electronjs.org
+- name: Theia
+  url: https://theia-ide.org
+- name: Electron Forge
+  url: https://www.electronforge.io
+- name: Electron Packager
+  url: https://github.com/electron/electron-packager
+- name: Electron Builder
+  url: https://www.electron.build
+  

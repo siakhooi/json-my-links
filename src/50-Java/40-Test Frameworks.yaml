@@ -4,3 +4,5 @@
   url: https://site.mockito.org
 - name: Jacoco.org
   url: https://www.jacoco.org/jacoco/
+- name: Snapshot Testing
+  url: https://github.com/origin-energy/java-snapshot-testing

@@ -8,4 +8,7 @@
   url: https://editor.swagger.io
 - name: newman
   url: https://www.npmjs.com/package/newman
-  
+- name: Scripting in Postman
+  url: https://learning.postman.com/docs/writing-scripts/intro-to-scripts/
+- name: Postman Quick Reference Guide
+  url: https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html#

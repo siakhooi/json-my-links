@@ -20,3 +20,5 @@
   url: https://ngrok.com
 - name: Packer.io
   url: https://www.packer.io
+- name: Terraform
+  url: https://www.terraform.io

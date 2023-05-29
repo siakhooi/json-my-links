@@ -7,7 +7,7 @@
 - name: VS Code.dev
   url: https://vscode.dev
 - name: VS Code Keyboard Shortcuts
-  url: https://https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+  url: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 - name: Notepad++
   url: https://notepad-plus-plus.org
 - name: Windows Terminal
@@ -18,3 +18,5 @@
   url: https://docs.microsoft.com/en-us/windows/package-manager/
 - name: Winstall.app (winget)
   url: https://winstall.app
+- name: Containers.dev
+  url: https://containers.dev
