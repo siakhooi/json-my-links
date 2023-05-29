@@ -1,6 +1,6 @@
-- name: @siakhooi/box-drawing (TS)
+- name: "@siakhooi/box-drawing (TS)"
   url: https://github.com/siakhooi/ts-box-drawing
-- name: @siakhooi/number-to-chinese-words (TS)
+- name: "@siakhooi/number-to-chinese-words (TS)"
   url: https://github.com/siakhooi/ts-number-to-chinese-words
 - name: scp-sync-to-local (JS)
   url: https://github.com/siakhooi/nodejs-scp-sync-to-local
