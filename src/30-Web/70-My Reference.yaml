@@ -1,6 +1,0 @@
-- name: icic.gitlab.io/web/
-  url: https://icic.gitlab.io/web/
-  description: html,css,sass,js,jquery
-- name: icic.gitlab.io/ssg/
-  url: https://icic.gitlab.io/ssg/
-  description: Static Site Generators
