@@ -26,3 +26,9 @@
   url: https://visitor-badge.glitch.me
 - name: jenkins.io
   url: https://www.jenkins.io
+- name: GitHub (cli)
+  url: https://cli.github.com
+- name: GitHub marketplace - actions
+  url: https://github.com/marketplace?type=actions
+- name: GitHub codespace
+  url: https://github.com/codespaces

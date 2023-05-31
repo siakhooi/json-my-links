@@ -1,0 +1,11 @@
+- name: GnuPG
+  url: https://gnupg.org
+- name: OpenSSL
+  url: https://www.openssl.org
+- name: Time Stamp Authority
+  url: https://www.freetsa.org
+- name: Cryptomator
+  url: https://cryptomator.org
+- name: Veracrypt
+  url: https://veracrypt.fr
+  

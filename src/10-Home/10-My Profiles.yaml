@@ -8,12 +8,6 @@
   url: "https://hub.docker.com/u/siakhooi"
 - name: "SonarCloud.io"
   url: "https://sonarcloud.io/organizations/siakhooi/projects"
-- name: "CoverAlls.io"
-  url: "https://coveralls.io/github/siakhooi"
-- name: "Codecov.io"
-  url: "https://app.codecov.io/gh/siakhooi"
-- name: "Codacy.com"
-  url: "https://app.codacy.com/gh/siakhooi"
 - name: "GitLab"
   url: "https://siakhooi.gitlab.io"
 - name: "BuyMeACoffee.com"
@@ -24,4 +18,9 @@
   url: "https://replit.com/@siakhooi"
 - name: JFrog
   url: https://siakhooi.jfrog.io
-  
+- name: "CoverAlls.io"
+  url: "https://coveralls.io/github/siakhooi"
+- name: "Codecov.io"
+  url: "https://app.codecov.io/gh/siakhooi"
+- name: "Codacy.com"
+  url: "https://app.codacy.com/gh/siakhooi"

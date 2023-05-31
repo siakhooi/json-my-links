@@ -16,4 +16,6 @@
   url: https://artifacthub.io
 - name: ChartMuseum.com
   url: https://chartmuseum.com
+- name: Minikube
+  url: https://minikube.sigs.k8s.io
   

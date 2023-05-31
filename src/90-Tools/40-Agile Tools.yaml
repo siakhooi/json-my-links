@@ -1,6 +1,10 @@
 - name: Draw.io
   url: https://app.diagrams.net
+- name: "PointingPoker.com"
+  url: "https://www.pointingpoker.com"
 - name: Miro.com
   url: https://miro.com
 - name: WiteBoard.com
   url: https://witeboard.com
+- name: "WheelofNames.com"
+  url: "https://wheelofnames.com"
