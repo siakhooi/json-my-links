@@ -1,0 +1,11 @@
+- name: "Oracle EBS R12"
+  url: "http://docs.oracle.com/cd/E26401_01/index.htm"
+- name: "Oracle Fusion Cloud Applications Suite"
+  url: "https://docs.oracle.com/en/cloud/saas/index.html"
+- name: Oracle Learning Explorer
+  url: "https://education.oracle.com/learning-explorer"
+- name: Policy Syntax
+  url: https://docs.oracle.com/en-us/iaas/Content/Identity/Concepts/policysyntax.htm
+- name: Cron Expressions
+  url: https://docs.oracle.com/cd/E12058_01/doc/doc.1014/e12030/cron_expressions.htm
+  

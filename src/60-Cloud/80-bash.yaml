@@ -2,6 +2,10 @@
   url: https://ss64.com/bash/syntax-keyboard.html
 - name: ShellCheck.net
   url: https://www.shellcheck.net
+- name: Bash Prompt Generator
+  url: https://bash-prompt-generator.org
+- name: Ez Prompt
+  url: https://ezprompt.net
 - name: jq
   url: https://stedolan.github.io/jq/
 - name: yq

@@ -1,7 +1,3 @@
-- name: "Oracle EBS R12"
-  url: "http://docs.oracle.com/cd/E26401_01/index.htm"
-- name: "Oracle Cloud Applications"
-  url: "https://docs.oracle.com/en/cloud/saas/index.html"
 - name: "w3schools.com"
   url: "https://www.w3schools.com"
 - name: "AgileManifesto.org"
