@@ -2,8 +2,6 @@
   url: "https://github.com/siakhooi/"
 - name: "GitHub Pages"
   url: "https://siakhooi.github.io"
-- name: "npmjs"
-  url: "https://www.npmjs.com/~siakhooi"
 - name: "Docker Hub"
   url: "https://hub.docker.com/u/siakhooi"
 - name: "SonarCloud.io"

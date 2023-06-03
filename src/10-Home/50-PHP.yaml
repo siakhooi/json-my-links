@@ -1,0 +1,16 @@
+- name: Bukusa.ga
+  url: https://bukusa.ga
+- name: "Bukusaga @ Github"  
+  url: https://github.com/siakhooi/bukusaga
+- name: "Tionghua (based on Mywise)"
+  url: https://github.com/siakhooi/mywise-tionghua
+- name: "Bukusaga @ Dockerhub"
+  url: https://hub.docker.com/r/siakhooi/bukusaga
+- name: "Tionghua @ DockerHub"
+  url: https://hub.docker.com/r/siakhooi/tionghua
+- name: MyWise Wiki Framework (PHP)
+  url: https://github.com/siakhooi/mywise
+- name: MyWise@DockerHub
+  url: https://hub.docker.com/r/siakhooi/mywise
+- name: MyWise@SourceForge (Abandoned)
+  url: https://sourceforge.net/projects/mywise/

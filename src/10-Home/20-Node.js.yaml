@@ -1,3 +1,5 @@
+- name: "npmjs/~siakhooi (NPM Profile)"
+  url: "https://www.npmjs.com/~siakhooi"
 - name: "@siakhooi/box-drawing (TS)"
   url: https://github.com/siakhooi/ts-box-drawing
 - name: "@siakhooi/number-to-chinese-words (TS)"
@@ -6,3 +8,5 @@
   url: https://github.com/siakhooi/nodejs-scp-sync-to-local
 - name: url-shortener (ExpressJs)
   url: https://github.com/siakhooi/expressjs-url-shortener
+- name: Tic Tac Toe (ReactJS Tutorial)
+  url: https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/
