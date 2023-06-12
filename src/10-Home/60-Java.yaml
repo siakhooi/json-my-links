@@ -1,2 +1,4 @@
-- name: G5 Application Framework (Java)
+- name: "JavaCli: java-do-nothing"
+  url: https://github.com/siakhooi/javacli-do-nothing
+- name: "G5 Application Framework (Java)"
   url: https://github.com/siakhooi/java-g5-framework
