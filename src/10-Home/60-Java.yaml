@@ -1,3 +1,6 @@
+- name: "JavaCli: Semvery"
+  url: https://github.com/siakhooi/javacli-semvery
+  description: "semver utilities"
 - name: "JavaCli: java-do-nothing"
   url: https://github.com/siakhooi/javacli-do-nothing
 - name: "G5 Application Framework (Java)"

@@ -18,4 +18,9 @@
   url: https://chartmuseum.com
 - name: Minikube
   url: https://minikube.sigs.k8s.io
-  
+- name: K3S.io
+  urL: https://k3s.io
+- name: K3D.io
+  urL: https://k3d.io
+- name: Micro8S.io
+  urL: https://microk8s.io

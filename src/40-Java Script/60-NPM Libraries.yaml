@@ -10,3 +10,9 @@
   url: https://babeljs.io
 - name: Axios (HTTP Client)
   url: https://axios-http.com
+- name: MomentJS
+  url: https://momentjs.com
+- name: badge-maker
+  url: https://www.npmjs.com/package/badge-maker
+- name: ultimate-text-to-image
+  url: https://www.npmjs.com/package/ultimate-text-to-image

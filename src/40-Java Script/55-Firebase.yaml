@@ -1,0 +1,10 @@
+- name: ExpressJs
+  url: https://expressjs.com/en/api.html
+- name: "Firebase Reference: Admin"
+  url: https://firebase.google.com/docs/reference/admin/
+- name: "Firebase Reference: Functions"
+  url: https://firebase.google.com/docs/reference/functions/
+- name: "Firebase Reference: Typescript"
+  url: https://firebase.google.com/docs/functions/typescript
+- name: "Firebase Docs"
+  url: https://googleapis.dev/nodejs/firestore/latest/
