@@ -1,0 +1,16 @@
+- name: kubernetes.io
+  url: https://kubernetes.io
+- name: Helm.sh
+  url: https://helm.sh
+- name: kind
+  url: https://kind.sigs.k8s.io
+- name: kubectl
+  url: https://kubernetes.io/docs/reference/kubectl/kubectl/
+- name: kubepfm
+  url: https://github.com/flowerinthenight/kubepfm
+- name: kubefwd
+  url: https://github.com/txn2/kubefwd
+- name: ingress-nginx
+  url: https://kubernetes.github.io/ingress-nginx/
+- name: cert-manager
+  url: https://cert-manager.io

@@ -2,12 +2,6 @@
   url: https://docker.com
 - name: hub.docker.com
   url: https://hub.docker.com
-- name: kind
-  url: https://kind.sigs.k8s.io/
-- name: kubernetes.io
-  url: https://kubernetes.io
-- name: Helm.sh
-  url: https://helm.sh
 - name: PodMan.io
   url: https://podman.io
 - name: Cri-o.io
@@ -19,8 +13,8 @@
 - name: Minikube
   url: https://minikube.sigs.k8s.io
 - name: K3S.io
-  urL: https://k3s.io
+  url: https://k3s.io
 - name: K3D.io
-  urL: https://k3d.io
+  url: https://k3d.io
 - name: Micro8S.io
-  urL: https://microk8s.io
+  url: https://microk8s.io
