@@ -5,9 +5,11 @@
   url: http://www.richyli.com/tool/loremipsum/
   description: Zh-tw
 - name: 中文假文產生器
-  url: https://textgen.cqd.tw/
+  url: "https://textgen.cqd.tw"
   description: Zh-tw
 - name: PDF Merge Tool
-  url: http://pdfmergetool.sourceforge.net/
+  url: "http://pdfmergetool.sourceforge.net"
 - name: PDFsam Basic
-  url: https://pdfsam.org/pdfsam-basic/
+  url: "https://pdfsam.org/pdfsam-basic"
+- name: ilovepdf.com
+  url: "https://www.ilovepdf.com"

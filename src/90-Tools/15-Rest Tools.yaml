@@ -12,3 +12,5 @@
   url: https://learning.postman.com/docs/writing-scripts/intro-to-scripts/
 - name: Postman Quick Reference Guide
   url: https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html#
+- name: wiremock.org
+  url: https://wiremock.org

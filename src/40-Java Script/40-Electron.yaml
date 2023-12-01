@@ -2,6 +2,8 @@
   url: https://www.electronjs.org
 - name: Theia
   url: https://theia-ide.org
+- name: inversify.io
+  url: https://inversify.io
 - name: Electron Forge
   url: https://www.electronforge.io
 - name: Electron Packager

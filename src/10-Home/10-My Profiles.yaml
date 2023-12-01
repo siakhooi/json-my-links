@@ -10,8 +10,6 @@
   url: "https://ko-fi.com/siakhooi"
 - name: "ReplIt.com"
   url: "https://replit.com/@siakhooi"
-- name: JFrog
-  url: https://siakhooi.jfrog.io
 - name: "CoverAlls.io"
   url: "https://coveralls.io/github/siakhooi"
 - name: "Codecov.io"
