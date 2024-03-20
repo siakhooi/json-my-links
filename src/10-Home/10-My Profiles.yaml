@@ -2,6 +2,8 @@
   url: "https://github.com/siakhooi/"
 - name: "Docker Hub"
   url: "https://hub.docker.com/u/siakhooi"
+- name: "ArtifactHub.io"
+  url: "https://artifacthub.io/packages/search?repo=siakhooi"
 - name: "SonarCloud.io"
   url: "https://sonarcloud.io/organizations/siakhooi/projects"
 - name: "BuyMeACoffee.com"
