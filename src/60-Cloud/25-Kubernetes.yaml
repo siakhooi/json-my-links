@@ -1,9 +1,5 @@
 - name: kubernetes.io
   url: https://kubernetes.io
-- name: Helm.sh
-  url: https://helm.sh
-- name: kind
-  url: https://kind.sigs.k8s.io
 - name: kubectl
   url: https://kubernetes.io/docs/reference/kubectl/kubectl/
 - name: kubepfm
@@ -14,3 +10,5 @@
   url: https://kubernetes.github.io/ingress-nginx/
 - name: cert-manager
   url: https://cert-manager.io
+- name: Kubernetes - Labels  
+  url: https://kubernetes.io/docs/concepts/overview/working-with-objects/common-labels/

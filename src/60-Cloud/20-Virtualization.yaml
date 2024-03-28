@@ -6,10 +6,6 @@
   url: https://podman.io
 - name: Cri-o.io
   url: https://cri-o.io
-- name: ArtifactHub.io
-  url: https://artifacthub.io
-- name: ChartMuseum.com
-  url: https://chartmuseum.com
 - name: Minikube
   url: https://minikube.sigs.k8s.io
 - name: K3S.io
@@ -18,3 +14,5 @@
   url: https://k3d.io
 - name: Micro8S.io
   url: https://microk8s.io
+- name: kind
+  url: https://kind.sigs.k8s.io

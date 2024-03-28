@@ -1,0 +1,8 @@
+- name: Helm.sh
+  url: https://helm.sh
+- name: Helm - Labels
+  url: https://helm.sh/docs/chart_best_practices/labels/
+- name: ArtifactHub.io
+  url: https://artifacthub.io
+- name: ChartMuseum.com
+  url: https://chartmuseum.com
