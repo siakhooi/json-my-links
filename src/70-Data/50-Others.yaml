@@ -6,3 +6,7 @@
   url: https://www.heidisql.com
 - name: DBeaver.io
   url: https://dbeaver.io
+- name: Elastic Search
+  url: https://www.elastic.co
+- name: Open Search
+  url: https://opensearch.org

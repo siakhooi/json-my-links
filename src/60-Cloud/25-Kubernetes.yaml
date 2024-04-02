@@ -2,6 +2,8 @@
   url: https://kubernetes.io
 - name: kubectl
   url: https://kubernetes.io/docs/reference/kubectl/kubectl/
+- name: kustomize
+  url: https://kustomize.io
 - name: kubepfm
   url: https://github.com/flowerinthenight/kubepfm
 - name: kubefwd
