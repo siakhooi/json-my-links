@@ -1,5 +1,7 @@
 - name: My APT Repository
   url: https://github.com/siakhooi/apt
+- name: My RPMS Repository
+  url: https://siakhooi.github.io/rpms
 - name: shed
   url: https://github.com/siakhooi/shed
   description: manage k8s environments

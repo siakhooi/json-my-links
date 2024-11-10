@@ -16,3 +16,5 @@
   url: https://jgrapht.org
 - name: Semver4j
   url: https://github.com/vdurmont/semver4j
+- name: Spring Doc
+  url: https://springdoc.org

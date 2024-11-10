@@ -1,0 +1,9 @@
+- name: Chat GPT
+  url: https://chatgpt.com
+- name: Open AI API
+  url: https://openai.com/api
+- name: Open AI Playground
+  url: https://platform.openai.com/playground/
+- name: Google Gemini
+  url: https://gemini.google.com
+

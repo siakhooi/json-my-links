@@ -1,0 +1,10 @@
+- name: Postman
+  url: https://www.postman.com
+- name: Postman JavaScript Reference
+  url: https://learning.postman.com/docs/tests-and-scripts/write-scripts/postman-sandbox-api-reference/
+- name: CheatSheet
+  url: https://postman-quick-reference-guide.readthedocs.io/en/latest/cheatsheet.html
+- name: Postman Collection SDK
+  url: https://www.postmanlabs.com/postman-collection/
+- name: OpenAPI-to-Postman
+  url: https://github.com/postmanlabs/OpenAPI-to-Postman

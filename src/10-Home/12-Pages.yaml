@@ -4,6 +4,8 @@
   url: "https://siakhooi.gitlab.io"
 - name: My APT Repository
   url: https://siakhooi.github.io/apt
+- name: My RPMS Repository
+  url: https://siakhooi.github.io/rpms
 - name: My Certificate Authority
   url: https://siakhooi.github.io/ca/
 - name: My Helm Charts Repository
