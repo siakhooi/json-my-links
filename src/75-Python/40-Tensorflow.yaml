@@ -1,0 +1,8 @@
+- name: Tensorflow
+  url: https://www.tensorflow.org
+- name: Tensorflow Projector
+  url: https://projector.tensorflow.org
+- name: Tensorflow Datasets
+  url: https://www.tensorflow.org/datasets
+- name: Tensorflow Keras Layers
+  url: https://www.tensorflow.org/api_docs/python/tf/keras/layers

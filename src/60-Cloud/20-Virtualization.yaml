@@ -18,3 +18,5 @@
   url: https://microk8s.io
 - name: kind
   url: https://kind.sigs.k8s.io
+- name: Harbor
+  url: https://goharbor.io

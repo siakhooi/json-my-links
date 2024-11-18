@@ -1,0 +1,17 @@
+- name: "pytorch"
+  url: "https://pytorch.org"
+- name: "PyTorch Datasets(Image)"
+  url: https://pytorch.org/vision/stable/datasets.html
+- name: "PyTorch Datasets(Text)"
+  url: https://pytorch.org/text/stable/datasets.html
+- name: "PyTorch Datasets(Audio)"
+  url: https://pytorch.org/audio/stable/datasets.html
+- name: "Captum.ai"
+  url: "https://Captum.ai"
+  description: model interpretability
+- name: "pyg.org"
+  url: "https://pyg.org"
+  description: graph neural networks
+- name: skorch
+  url: https://www.github.com/skorch-dev/skorch
+

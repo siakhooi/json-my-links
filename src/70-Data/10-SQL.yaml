@@ -2,6 +2,8 @@
   url: https://www.mysql.com
 - name: MariaDB
   url: https://mariadb.com
+- name: MariaDB Maxscale
+  url: https://mariadb.com/kb/en/maxscale/
 - name: HyperSQL
   url: http://hsqldb.org
 - name: Apache Derby

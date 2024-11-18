@@ -6,9 +6,3 @@
   url: https://platform.openai.com/playground/
 - name: Google Gemini
   url: https://gemini.google.com
-- name: Tensorflow
-  url: https://www.tensorflow.org
-- name: Tensorflow Projector
-  url: https://projector.tensorflow.org
-- name: Tensorflow Keras Layers
-  url: https://www.tensorflow.org/api_docs/python/tf/keras/layers
