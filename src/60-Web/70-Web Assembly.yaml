@@ -1,0 +1,7 @@
+- name: WebVM.io
+  url: https://webvm.io
+- name: WebVM.io/Alpine
+  url: https://webvm.io/alpine.html
+  description: GUI
+- name: WebVM.io (mini)
+  url: https://mini.webvm.io
