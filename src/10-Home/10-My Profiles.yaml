@@ -18,3 +18,5 @@
   url: "https://app.codecov.io/gh/siakhooi"
 - name: "Codacy.com"
   url: "https://app.codacy.com/gh/siakhooi"
+- name: "CodeClimate.com/Quality"
+  url: "https://codeclimate.com/quality"
