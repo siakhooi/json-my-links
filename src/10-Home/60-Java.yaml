@@ -1,3 +1,5 @@
+- name: "GroovyCli: Path2json"
+  url: https://github.com/siakhooi/groovycli-path2json
 - name: "JavaCli: Semvery"
   url: https://github.com/siakhooi/javacli-semvery
   description: "semver utilities"

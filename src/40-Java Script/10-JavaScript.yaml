@@ -6,3 +6,7 @@
   url: https://www.typescriptlang.org
 - name: JavaScript.info/Code-Quality
   url: https://javascript.info/code-quality
+- name: Bun
+  url: https://bun.sh
+- name: Deno
+  url: https://deno.com
