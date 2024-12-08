@@ -1,0 +1,12 @@
+- name: "How-to: Bash Keyboard Shortcuts"
+  url: https://ss64.com/bash/syntax-keyboard.html
+- name: jq
+  url: https://stedolan.github.io/jq/
+- name: yq
+  url: https://mikefarah.gitbook.io/yq/
+- name: curl
+  url: https://curl.se
+- name: FIGlet.org
+  url: http://www.figlet.org
+- name: TOIlet
+  url: http://caca.zoy.org/wiki/toilet

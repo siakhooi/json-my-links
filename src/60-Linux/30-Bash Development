@@ -1,24 +1,16 @@
-- name: "How-to: Bash Keyboard Shortcuts"
-  url: https://ss64.com/bash/syntax-keyboard.html
 - name: ShellCheck.net
   url: https://www.shellcheck.net
 - name: Bash Prompt Generator
   url: https://bash-prompt-generator.org
 - name: Ez Prompt
   url: https://ezprompt.net
-- name: jq
-  url: https://stedolan.github.io/jq/
-- name: yq
-  url: https://mikefarah.gitbook.io/yq/
-- name: curl
-  url: https://curl.se
-- name: FIGlet.org
-  url: http://www.figlet.org
-- name: TOIlet
-  url: http://caca.zoy.org/wiki/toilet
 - name: Terminalizer.com
   url: https://www.terminalizer.com
 - name: RPM find
   url: https://rpmfind.net
 - name: Google Shell Style Guide
   url: https://google.github.io/styleguide/shellguide.html
+- name: Bats Core
+  url: https://github.com/bats-core/bats-core
+- name: Bats Core (Documentation)
+  url: https://bats-core.readthedocs.io/en/latest/
