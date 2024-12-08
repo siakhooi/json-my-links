@@ -1,0 +1,8 @@
+- name: "jupyter"
+  url: "https://jupyter.org"
+- name: "Colab.Google"
+  url: "https://colab.google"
+- name: "Google Colab"
+  url: "https://colab.research.google.com"
+
+

@@ -2,8 +2,6 @@
   url: "https://www.python.org"
 - name: "pypi"
   url: "https://pypi.org"
-- name: "jupyter"
-  url: "https://jupyter.org"
 - name: "fastai"
   url: "https://www.fast.ai"
 - name: "ipython"
