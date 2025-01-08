@@ -1,0 +1,22 @@
+- name: hydra
+  url: https://github.com/vanhauser-thc/thc-hydra
+  description: login hacker tools
+- name: The Elevation of Privilege Threat Modeling Card Deck
+  url: https://github.com/adamshostack/eop
+- name: Common Vulnerabilities and Exposures
+  url: https://www.cve.org
+- name: Secure by Design - CISA
+  url: https://www.cisa.gov/securebydesign
+- name: All Resources & Tools - CISA
+  url: https://www.cisa.gov/resources-tools/all-resources-tools
+- name: OWASP.org
+  url: https://www.owasp.org
+- name: OWASP.org Top Ten
+  url: https://www.owasp.org/www-project-top-ten
+- name: CERT division - Software Engineering Institute
+  url: https://www.sei.cmu.edu/about/divisions/cert/
+- name: keelog.com
+  url: https://www.keelog.com
+  description: USB hardware keyloggers
+- name: Microsoft Threat Modeling Tool threats
+  url: https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats
