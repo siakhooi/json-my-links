@@ -1,11 +1,3 @@
-- name: docker.com
-  url: https://docker.com
-- name: hub.docker.com
-  url: https://hub.docker.com
-- name: "Open Containers - Annotations/Labels"
-  url: https://github.com/opencontainers/image-spec/blob/main/annotations.md
-- name: PodMan.io
-  url: https://podman.io
 - name: Cri-o.io
   url: https://cri-o.io
 - name: Minikube

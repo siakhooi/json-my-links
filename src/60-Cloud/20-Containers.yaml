@@ -1,0 +1,14 @@
+- name: docker.com
+  url: https://docker.com
+- name: hub.docker.com
+  url: https://hub.docker.com
+- name: "Open Containers - Annotations/Labels"
+  url: https://github.com/opencontainers/image-spec/blob/main/annotations.md
+- name: PodMan.io
+  url: https://podman.io
+- name: composerize.com
+  url: https://www.composerize.com
+- name: decomposerize.com
+  url: https://www.decomposerize.com
+- name: composeverter.com
+  url: https://www.composeverter.com
