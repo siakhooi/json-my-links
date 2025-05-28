@@ -1,0 +1,6 @@
+- name: Go
+  url: https://go.dev
+- name: pkg.go.dev
+  url: https://pkg.go.dev
+- name: gobyexample.com
+  url: https://gobyexample.com

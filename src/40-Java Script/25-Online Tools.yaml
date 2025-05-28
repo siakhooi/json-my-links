@@ -1,5 +1,3 @@
-- name: JQ Playground
-  url: https://jqplay.org
 - name: json Viewer
   url: http://jsonviewer.stack.hu
 - name: KeyCode.info

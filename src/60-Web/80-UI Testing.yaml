@@ -4,3 +4,5 @@
   url: https://accessibilityinsights.io
 - name: "robotframework.org"
   url: "https://robotframework.org"
+- name: FlaUInspect
+  url: https://github.com/FlaUI/FlaUInspect

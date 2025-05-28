@@ -1,0 +1,6 @@
+- name: htmligator
+  url: https://github.com/siakhooi/python-htmligator
+- name: terminalizer2asciinema
+  url: https://github.com/siakhooi/python-terminalizer2asciinema
+- name: download-files-by-map
+  url: https://github.com/siakhooi/python-download-files-by-map
