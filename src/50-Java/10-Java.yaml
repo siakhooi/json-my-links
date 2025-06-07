@@ -10,8 +10,6 @@
   url: https://www.microsoft.com/openjdk
 - name: Google Java Style
   url: https://google.github.io/styleguide/javaguide.html
-- name: Groovy-lang.org
-  url: http://www.groovy-lang.org
 - name: spring.io
   url: https://spring.io
 - name: spring initializr

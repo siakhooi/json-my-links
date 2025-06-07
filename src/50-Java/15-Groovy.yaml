@@ -1,0 +1,9 @@
+- name: Groovy-lang.org
+  url: http://www.groovy-lang.org
+- name: Groovy Documentation
+  url: https://groovy-lang.org/documentation.html
+- name: Groovy JDK API Documentation
+  url: https://groovy-lang.org/gdk.html
+- name: Koans
+  url: https://nadavc.github.io/groovykoans/
+  description: the missing groovy tutorial
