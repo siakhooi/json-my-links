@@ -1,0 +1,10 @@
+- name: git-scm.com
+  url: https://git-scm.com
+- name: Visualizing Git
+  url: http://git-school.github.io/visualizing-git/
+- name: gitignore.io
+  url: http://gitignore.io
+- name:  github.com/gitignore
+  url: https://github.com/github/gitignore
+- name: Git Extensions
+  url: https://gitextensions.github.io

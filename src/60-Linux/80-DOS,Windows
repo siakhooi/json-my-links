@@ -1,0 +1,10 @@
+- name: Dosbox
+  url: https://www.dosbox.com
+- name: DOSBox-X
+  url: https://dosbox-x.com
+- name: DOSEMU
+  url: https://www.dosemu.org
+- name: Wine
+  url: https://www.winehq.org
+- name: FreeDos.org
+  url: http://www.freedos.org

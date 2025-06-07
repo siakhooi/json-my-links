@@ -1,0 +1,15 @@
+- name: VS Code
+  url: https://code.visualstudio.com
+- name: VSCodeThemes.com
+  url: https://vscodethemes.com
+- name: VSCodium.com
+  url: https://vscodium.com
+- name: VS Code.dev
+  url: https://vscode.dev
+- name: VS Code Keyboard Shortcuts
+  url: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+- name: Containers.dev
+  url: https://containers.dev
+- name: VS Code Remote Development
+  url: https://code.visualstudio.com/docs/remote/remote-overview
+  

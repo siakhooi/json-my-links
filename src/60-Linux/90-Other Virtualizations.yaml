@@ -1,7 +1,5 @@
 - name: qemu.org
   url: https://www.qemu.org
-- name: FreeDos.org
-  url: http://www.freedos.org
 - name: TightVnc.com
   url: https://www.tightvnc.com
 - name: Realvnc.com

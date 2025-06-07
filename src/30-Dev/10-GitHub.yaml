@@ -1,0 +1,12 @@
+- name: GitHub.com
+  url: https://github.com
+- name: GitHub (cli)
+  url: https://cli.github.com
+- name: GitHub marketplace - actions
+  url: https://github.com/marketplace?type=actions
+- name: GitHub codespace
+  url: https://github.com/codespaces
+- name: Github Action Lint
+  url: https://rhysd.github.io/actionlint/
+- name: gh-pages (npm)
+  url: https://www.npmjs.com/package/gh-pages
