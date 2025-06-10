@@ -10,7 +10,3 @@
   url: https://www.elastic.co
 - name: Open Search
   url: https://opensearch.org
-- name: Apache Kafka
-  url: https://kafka.apache.org
-- name: Apache Zookeeper
-  url: https://zookeeper.apache.org

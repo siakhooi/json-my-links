@@ -1,0 +1,6 @@
+- name: Apache Kafka
+  url: https://kafka.apache.org
+- name: Apache Zookeeper
+  url: https://zookeeper.apache.org
+- name: kcat
+  url: https://github.com/edenhill/kcat
