@@ -8,3 +8,6 @@
   url: https://docs.microsoft.com/en-us/windows/package-manager/
 - name: Winstall.app (winget)
   url: https://winstall.app
+- name: Windows commands
+  url: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
+  

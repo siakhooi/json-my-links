@@ -4,5 +4,7 @@
   url: https://accessibilityinsights.io
 - name: "robotframework.org"
   url: "https://robotframework.org"
+- name: "robotframework.org standard libraries"
+  url: https://robotframework.org/robotframework/#standard-libraries
 - name: FlaUInspect
   url: https://github.com/FlaUI/FlaUInspect
