@@ -1,0 +1,22 @@
+- name: jstoolset
+  url: https://www.jstoolset.com
+- name: JWT.io
+  url: https://jwt.io/#debugger-io
+- name: json Viewer
+  url: http://jsonviewer.stack.hu
+- name: KeyCode.info
+  url: https://keycode.info
+- name: JOLT Transform Demo
+  url: https://jolt-demo.appspot.com
+- name: Json Path
+  url: https://jsonpath.com
+- name: UrlEncoder.io
+  url: https://www.urlencoder.io
+- name: CronTab.guru
+  url: https://crontab.guru
+- name: regexr.com
+  url: https://regexr.com
+- name: regex101.com
+  url: https://regex101.com
+- name: sed.js.org
+  url: https://sed.js.org

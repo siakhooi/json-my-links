@@ -10,4 +10,6 @@
   url: https://github.com/electron/electron-packager
 - name: Electron Builder
   url: https://www.electron.build
+- name: Electron Builder (CLI)
+  url: https://www.electron.build/cli
   

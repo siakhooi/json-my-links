@@ -1,10 +1,10 @@
-- name: Selenium
-  url: https://www.selenium.dev
-- name: AccessibilityInsights.io
-  url: https://accessibilityinsights.io
 - name: "robotframework.org"
   url: "https://robotframework.org"
 - name: "robotframework.org standard libraries"
   url: https://robotframework.org/robotframework/#standard-libraries
+- name: Selenium
+  url: https://www.selenium.dev
+- name: AccessibilityInsights.io
+  url: https://accessibilityinsights.io
 - name: FlaUInspect
   url: https://github.com/FlaUI/FlaUInspect

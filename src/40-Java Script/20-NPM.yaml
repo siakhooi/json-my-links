@@ -10,3 +10,6 @@
   url: https://www.jsdelivr.com
 - name: webpack.js.org
   url: https://webpack.js.org
+- name: vite.dev
+  url: https://vite.dev
+  description: quick build tool
