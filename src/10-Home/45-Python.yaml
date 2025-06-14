@@ -1,3 +1,5 @@
+- name: PyPI
+  url: "https://pypi.org/user/siakhooi/"
 - name: htmligator
   url: https://github.com/siakhooi/python-htmligator
 - name: terminalizer2asciinema
