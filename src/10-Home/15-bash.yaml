@@ -17,3 +17,7 @@
   url: https://github.com/siakhooi/bash-devutils-echo-colors
 - name: date formats
   url: https://github.com/siakhooi/bash-devutils-date-formats
+- name: ore
+  url: https://github.com/siakhooi/ore
+- name: buildo
+  url: https://github.com/siakhooi/buildo

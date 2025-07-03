@@ -6,3 +6,7 @@
   url: https://platform.openai.com/playground/
 - name: Google Gemini
   url: https://gemini.google.com
+- name: Google AI Studio
+  url: https://aistudio.google.com
+- name: Gemini CLI
+  url: https://www.npmjs.com/package/@google/gemini-cli
