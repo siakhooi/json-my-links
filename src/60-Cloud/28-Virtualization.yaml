@@ -4,6 +4,8 @@
   url: https://minikube.sigs.k8s.io
 - name: K3S.io
   url: https://k3s.io
+- name: k0sproject.io
+  url: https://k0sproject.io
 - name: K3D.io
   url: https://k3d.io
 - name: Micro8S.io
