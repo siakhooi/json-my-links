@@ -1,0 +1,8 @@
+- name: Containers.dev
+  url: https://containers.dev
+- name: devcontainers/images
+  url: https://github.com/devcontainers/images
+- name: devcontainers/templates
+  url: https://github.com/devcontainers/templates
+- name: devcontainers/template-starter
+  url: https://github.com/devcontainers/template-starter
