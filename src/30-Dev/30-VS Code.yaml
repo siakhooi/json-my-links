@@ -1,12 +1,14 @@
 - name: VS Code
   url: https://code.visualstudio.com
+- name: Code cli
+  url: https://code.visualstudio.com/docs/configure/command-line
+- name: VS Code Keyboard Shortcuts
+  url: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 - name: VSCodeThemes.com
   url: https://vscodethemes.com
 - name: VSCodium.com
   url: https://vscodium.com
 - name: VS Code.dev
   url: https://vscode.dev
-- name: VS Code Keyboard Shortcuts
-  url: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 - name: VS Code Remote Development
   url: https://code.visualstudio.com/docs/remote/remote-overview
