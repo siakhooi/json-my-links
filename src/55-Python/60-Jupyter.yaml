@@ -1,8 +1,8 @@
 - name: "jupyter"
   url: "https://jupyter.org"
+- name: "jupyter image selection"
+  url: "https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html"
 - name: "Colab.Google"
   url: "https://colab.google"
 - name: "Google Colab"
   url: "https://colab.research.google.com"
-
-

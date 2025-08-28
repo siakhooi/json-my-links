@@ -1,0 +1,14 @@
+- name: grafana.com
+  url: https://grafana.com
+- name: kibana
+  url: https://www.elastic.co/kibana
+- name: prometheus
+  url: https://prometheus.io
+- name: prometheus (PromQL)
+  url: https://promlabs.com/promql-cheat-sheet/
+- name: Elastic Search
+  url: https://www.elastic.co
+- name: Elastic Search (Query Language)
+  url: https://www.elastic.co/docs/reference/query-languages/
+- name: Open Search
+  url: https://opensearch.org

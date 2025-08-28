@@ -1,6 +1,0 @@
-- name: grafana.com
-  url: https://grafana.com
-- name: kibana
-  url: https://www.elastic.co/kibana
-- name: prometheus
-  url: https://prometheus.io
