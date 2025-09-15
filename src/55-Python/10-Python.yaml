@@ -14,3 +14,5 @@
   url: "https://www.spyder-ide.org"
 - name: "anaconda"
   url: "https://www.anaconda.com"
+- name: "conda.io"
+  url: "https://docs.conda.io/en/latest/"

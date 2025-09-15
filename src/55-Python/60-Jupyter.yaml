@@ -14,3 +14,5 @@
   url: "https://colab.google"
 - name: "Google Colab"
   url: "https://colab.research.google.com"
+- name: Papermill
+  url: "https://papermill.readthedocs.io/en/latest/"
