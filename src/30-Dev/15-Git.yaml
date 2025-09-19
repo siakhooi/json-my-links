@@ -8,3 +8,5 @@
   url: https://github.com/github/gitignore
 - name: Git Extensions
   url: https://gitextensions.github.io
+- name: Git LFS
+  url: https://github.com/git-lfs/git-lfs

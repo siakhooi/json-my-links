@@ -10,3 +10,7 @@
   url: https://aistudio.google.com
 - name: Gemini CLI
   url: https://www.npmjs.com/package/@google/gemini-cli
+- name: onnx.ai
+  url: https://onnx.ai
+- name: huggingface.co
+  url: https://huggingface.co

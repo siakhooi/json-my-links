@@ -1,0 +1,6 @@
+- name: haproxy.org
+  url: https://www.haproxy.org
+- name: traefik.io
+  url: https://traefik.io
+- name: traefik-library-image
+  url: https://github.com/traefik/traefik-library-image
