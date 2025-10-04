@@ -1,6 +1,16 @@
 - name: Go
   url: https://go.dev
+- name: Go Playground
+  url: https://go.dev/play/
 - name: pkg.go.dev
   url: https://pkg.go.dev
 - name: gobyexample.com
   url: https://gobyexample.com
+- name: golangci-lint.run
+  url: https://golangci-lint.run
+- name: goreleaser.com
+  url: https://goreleaser.com
+- name: cli.urfave.org
+  url: https://cli.urfave.org
+- name: cobra.dev
+  url: https://cobra.dev

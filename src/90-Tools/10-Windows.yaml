@@ -6,8 +6,11 @@
   url: https://windowsterminalthemes.dev
 - name: winget
   url: https://docs.microsoft.com/en-us/windows/package-manager/
+- name: winget-cli
+  url: https://github.com/microsoft/winget-cli
 - name: Winstall.app (winget)
   url: https://winstall.app
 - name: Windows commands
   url: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
-  
+- name: WSL
+  url: https://learn.microsoft.com/en-us/windows/wsl/
