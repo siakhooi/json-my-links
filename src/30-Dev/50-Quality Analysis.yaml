@@ -16,3 +16,5 @@
   url: https://lgtm.com
 - name: scan.coverity.com
   url: https://scan.coverity.com
+- name: qlty.sh
+  url: https://qlty.sh

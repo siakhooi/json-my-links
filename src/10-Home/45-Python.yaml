@@ -6,3 +6,5 @@
   url: https://github.com/siakhooi/python-terminalizer2asciinema
 - name: download-files-by-map
   url: https://github.com/siakhooi/python-download-files-by-map
+- name: kafka-republisher
+  url: https://github.com/siakhooi/kafka-republisher

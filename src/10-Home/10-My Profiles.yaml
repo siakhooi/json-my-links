@@ -20,3 +20,5 @@
   url: "https://app.codacy.com/gh/siakhooi"
 - name: "CodeClimate.com/Quality"
   url: "https://codeclimate.com/quality"
+- name: "Qlty.sh"
+  url: "https://qlty.sh/gh/siakhooi/projects"
