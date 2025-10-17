@@ -14,3 +14,9 @@
   url: https://onnx.ai
 - name: huggingface.co
   url: https://huggingface.co
+- name: claude.ai
+  url: https://claude.ai
+- name: cohere.com
+  url: https://cohere.com
+- name: llama.com
+  url: https://www.llama.com
