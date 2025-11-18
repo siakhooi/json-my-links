@@ -1,7 +1,7 @@
 - name: SonarCloud.io
   url: https://sonarcloud.io
-- name: CodeClimate.com
-  url: https://codeclimate.com
+- name: qlty.sh
+  url: https://qlty.sh
 - name: Coveralls.io
   url: https://coveralls.io
 - name: Codecov.io
@@ -12,9 +12,5 @@
   url: https://www.codefactor.io
 - name: Snyk.io
   url: https://app.snyk.io
-- name: lgtm.com
-  url: https://lgtm.com
 - name: scan.coverity.com
   url: https://scan.coverity.com
-- name: qlty.sh
-  url: https://qlty.sh
