@@ -1,0 +1,12 @@
+- name: "How-to: Bash Keyboard Shortcuts"
+  url: https://ss64.com/bash/syntax-keyboard.html
+- name: GNU Bash
+  url: https://www.gnu.org/software/bash/
+- name: Fish Shell
+  url: https://fishshell.com
+- name: Zsh
+  url: https://www.zsh.org
+- name: Oh My Zsh
+  url: https://ohmyz.sh
+- name: Starship
+  url: https://starship.rs

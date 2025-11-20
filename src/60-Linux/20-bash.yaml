@@ -1,5 +1,3 @@
-- name: "How-to: Bash Keyboard Shortcuts"
-  url: https://ss64.com/bash/syntax-keyboard.html
 - name: jq
   url: https://stedolan.github.io/jq/
 - name: yq
