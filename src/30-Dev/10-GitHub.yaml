@@ -10,3 +10,5 @@
   url: https://rhysd.github.io/actionlint/
 - name: gh-pages (npm)
   url: https://www.npmjs.com/package/gh-pages
+- name: Renovate Bot
+  url: https://github.com/renovatebot/renovate
