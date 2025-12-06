@@ -12,5 +12,7 @@
   url: https://goreleaser.com
 - name: cli.urfave.org
   url: https://cli.urfave.org
+- name: github.com/urfave/cli
+  url: https://github.com/urfave/cli
 - name: cobra.dev
   url: https://cobra.dev
