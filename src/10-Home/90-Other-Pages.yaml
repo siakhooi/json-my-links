@@ -1,11 +1,5 @@
-- name: "SiakHooi.GitHub.io"
-  url: "https://siakhooi.github.io"
 - name: "SiakHooi.GitLab.io"
   url: "https://siakhooi.gitlab.io"
-- name: My Json Links
-  url: https://siakhooi.github.io/json-my-links
-- name: Number to Chinese Words (Demo)
-  url: https://siakhooi.github.io/ts-number-to-chinese-words
 - name: Syur.ga
   url: https://siakhooi.gitlab.io/syurga/
 - name: Bukusa.ga
@@ -16,8 +10,3 @@
   url: https://github.com/siakhooi/css3d_friendtable
 - name: Tic Tac Toe (ReactJS Tutorial)
   url: https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/
-- name: Carbon War
-  url: https://siakhooi.github.io/carbon-war/
-- name: Book Covers
-  url: https://siakhooi.github.io/book-covers/
-  

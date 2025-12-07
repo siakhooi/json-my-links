@@ -16,3 +16,9 @@
   url: "https://colab.research.google.com"
 - name: Papermill
   url: "https://papermill.readthedocs.io/en/latest/"
+- name: "ipython"
+  url: "https://ipython.org"
+- name: "anaconda"
+  url: "https://www.anaconda.com"
+- name: "conda.io"
+  url: "https://docs.conda.io/en/latest/"

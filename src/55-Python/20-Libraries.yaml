@@ -19,3 +19,5 @@
   url: "https://gunicorn.org"
 - name: "python-devguide-versions"
   url: "https://devguide.python.org/versions/"
+- name: "fastai"
+  url: "https://www.fast.ai"

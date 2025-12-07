@@ -6,6 +6,8 @@
   url: https://github.com/siakhooi/ts-box-drawing
 - name: "@siakhooi/number-to-chinese-words (TS)"
   url: https://github.com/siakhooi/ts-number-to-chinese-words
+- name: "siakhooi/siakhooi.github.io (TS)"
+  url: https://github.com/siakhooi/siakhooi.github.io
 - name: scp-sync-to-local (JS)
   url: https://github.com/siakhooi/nodejs-scp-sync-to-local
 - name: url-shortener (ExpressJs)

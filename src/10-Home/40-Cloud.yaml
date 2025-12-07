@@ -1,6 +1,0 @@
-- name: My Helm Charts Repository
-  url: https://siakhooi.github.io/helm-charts
-- name: Starter-Web@Github
-  url: https://github.com/siakhooi/docker-starter-web
-- name: Starter-Web@DockerHub
-  url: https://hub.docker.com/r/siakhooi/starter-web

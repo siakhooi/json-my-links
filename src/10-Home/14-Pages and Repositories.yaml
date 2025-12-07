@@ -1,0 +1,18 @@
+- name: "SiakHooi.GitHub.io"
+  url: "https://siakhooi.github.io"
+- name: My Json Links
+  url: https://siakhooi.github.io/json-my-links
+- name: Number to Chinese Words (Demo)
+  url: https://siakhooi.github.io/ts-number-to-chinese-words
+- name: Carbon War (Scratch Project)
+  url: https://siakhooi.github.io/carbon-war/
+- name: Book Covers
+  url: https://siakhooi.github.io/book-covers/
+- name: My APT Repository
+  url: https://siakhooi.github.io/apt
+- name: My RPMS Repository
+  url: https://siakhooi.github.io/rpms
+- name: My Helm Charts Repository
+  url: https://siakhooi.github.io/helm-charts
+- name: My Certificate Authority
+  url: https://siakhooi.github.io/ca/

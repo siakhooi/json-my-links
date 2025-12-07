@@ -1,9 +1,10 @@
-- name: "GroovyCli: Path2json"
-  url: https://github.com/siakhooi/groovycli-path2json
-- name: "JavaCli: Semvery"
-  url: https://github.com/siakhooi/javacli-semvery
-  description: "semver utilities"
-- name: "G5 Application Framework (Java)"
-  url: https://github.com/siakhooi/java-g5-framework
 - name: "Query"
   url: https://github.com/siakhooi/query
+- name: "path2json"
+  url: https://github.com/siakhooi/groovycli-path2json
+  description: "GroovyCli: Convert file paths to JSON array"
+- name: "semvery"
+  url: https://github.com/siakhooi/javacli-semvery
+  description: "JavaCli: semver utilities"
+- name: "G5 Application Framework (Java)"
+  url: https://github.com/siakhooi/java-g5-framework

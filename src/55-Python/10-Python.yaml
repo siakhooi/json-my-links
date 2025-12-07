@@ -6,13 +6,5 @@
   url: https://python-poetry.org
 - name: Flake8
   url: https://flake8.pycqa.org
-- name: "fastai"
-  url: "https://www.fast.ai"
-- name: "ipython"
-  url: "https://ipython.org"
 - name: "spyder"
   url: "https://www.spyder-ide.org"
-- name: "anaconda"
-  url: "https://www.anaconda.com"
-- name: "conda.io"
-  url: "https://docs.conda.io/en/latest/"
