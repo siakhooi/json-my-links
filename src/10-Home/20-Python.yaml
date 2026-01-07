@@ -14,7 +14,10 @@
   url: https://github.com/siakhooi/kafka-republisher
 - name: kafka-collector
   url: https://github.com/siakhooi/kafka-collector
+  description: alpha stage
 - name: kafka-mocker
   url: https://github.com/siakhooi/kafka-mocker
+  description: alpha stage
 - name: response-mocker
   url: https://github.com/siakhooi/response-mocker
+  description: alpha stage

@@ -5,10 +5,15 @@
 - name: shed
   url: https://github.com/siakhooi/shed
   description: manage k8s environments
+- name: ore
+  url: https://github.com/siakhooi/ore
+  description: download,distribute artifacts from various sources
 - name: image runner
   url: https://github.com/siakhooi/image-runner
+  description: run docker images with configured parameters
 - name: image sitter
   url: https://github.com/siakhooi/image-sitter
+  description: manage local docker images
 - name: dev utils
   url: https://github.com/siakhooi/bash-devutils
 - name: text utils
@@ -19,13 +24,13 @@
   url: https://github.com/siakhooi/bash-devutils-echo-colors
 - name: date formats
   url: https://github.com/siakhooi/bash-devutils-date-formats
-- name: ore
-  url: https://github.com/siakhooi/ore
-- name: ele
-  url: https://github.com/siakhooi/ele
-- name: buildo
-  url: https://github.com/siakhooi/buildo
-- name: cerg
-  url: https://github.com/siakhooi/bash-cerg
 - name: devy
   url: https://github.com/siakhooi/bash-devy
+- name: buildo
+  url: https://github.com/siakhooi/buildo
+- name: ele
+  url: https://github.com/siakhooi/ele
+  description: alpha stage
+- name: cerg
+  url: https://github.com/siakhooi/bash-cerg
+  description: alpha stage

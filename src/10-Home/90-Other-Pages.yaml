@@ -2,11 +2,16 @@
   url: "https://siakhooi.gitlab.io"
 - name: Syur.ga
   url: https://siakhooi.gitlab.io/syurga/
+  description: legacy
 - name: Bukusa.ga
   url: https://siakhooi.github.io/bukusaga/
+  description: legacy
 - name: Clock Mouse Pointer
   url: https://siakhooi.github.io/javascript-clock-mouse-pointer/
+  description: legacy
 - name: CSS3D - Friends Table
   url: https://github.com/siakhooi/css3d_friendtable
+  description: legacy
 - name: Tic Tac Toe (ReactJS Tutorial)
   url: https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/
+  description: legacy
