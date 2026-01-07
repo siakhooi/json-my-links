@@ -1,11 +1,11 @@
 - name: PyPI/Siak Hooi (PIP Profile)
   url: "https://pypi.org/user/siakhooi/"
 - name: htmligator
-  url: https://github.com/siakhooi/python-htmligator
+  url: https://github.com/siakhooi/htmligator
 - name: terminalizer2asciinema
-  url: https://github.com/siakhooi/python-terminalizer2asciinema
+  url: https://github.com/siakhooi/terminalizer2asciinema
 - name: download-files-by-map
-  url: https://github.com/siakhooi/python-download-files-by-map
+  url: https://github.com/siakhooi/download-files-by-map
 - name: bpmn-print
   url: https://github.com/siakhooi/bpmn-print
 - name: configmap-reader
