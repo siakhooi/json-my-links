@@ -1,11 +1,11 @@
 - name: "Query"
   url: https://github.com/siakhooi/query
 - name: "path2json"
-  url: https://github.com/siakhooi/groovycli-path2json
-  description: "GroovyCli: Convert file paths to JSON array"
+  url: https://github.com/siakhooi/path2json
+  description: "CLI with Groovy: Convert file paths to JSON array"
 - name: "semvery"
-  url: https://github.com/siakhooi/javacli-semvery
-  description: "JavaCli: semver utilities"
+  url: https://github.com/siakhooi/semvery
+  description: "Cli with Java: semver utilities"
 - name: "G5 Application Framework (Java)"
   url: https://github.com/siakhooi/java-g5-framework
   description: legacy
