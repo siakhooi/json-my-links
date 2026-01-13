@@ -8,3 +8,7 @@
   url: https://flake8.pycqa.org
 - name: "spyder"
   url: "https://www.spyder-ide.org"
+- name: "pyenv"
+  url: "https://github.com/pyenv/pyenv"
+- name: "pyenv-virtualenv"
+  url: "https://github.com/pyenv/pyenv-virtualenv"

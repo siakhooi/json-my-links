@@ -1,0 +1,4 @@
+- name: BitWise
+  url: https://github.com/siakhooi/model-bitwise
+- name: Iris
+  url: https://github.com/siakhooi/model-iris
