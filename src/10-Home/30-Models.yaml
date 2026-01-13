@@ -1,4 +1,6 @@
-- name: BitWise
-  url: https://github.com/siakhooi/model-bitwise
+- name: XOR
+  url: https://github.com/siakhooi/model-xor
+- name: Logic Gates
+  url: https://github.com/siakhooi/model-logic-gates
 - name: Iris
   url: https://github.com/siakhooi/model-iris
