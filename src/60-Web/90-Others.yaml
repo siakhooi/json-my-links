@@ -1,2 +1,4 @@
 - name: "netlify.com"
   url: "https://www.netlify.com"
+- name: SVG MDN
+  url: "https://developer.mozilla.org/en-US/docs/Web/SVG"
