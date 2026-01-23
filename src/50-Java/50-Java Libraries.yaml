@@ -18,3 +18,5 @@
   url: https://github.com/vdurmont/semver4j
 - name: Spring Doc
   url: https://springdoc.org
+- name: picocli
+  url: https://picocli.info

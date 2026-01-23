@@ -10,6 +10,12 @@
   url: https://aistudio.google.com
 - name: Gemini CLI
   url: https://www.npmjs.com/package/@google/gemini-cli
+- name: GeminiCLI.com
+  url: https://geminicli.com/
+- name: Copilot-cli
+  url: https://github.com/github/copilot-cli
+- name: Copilot-cli Doc
+  url: https://docs.github.com/en/copilot/concepts/agents/about-copilot-cli
 - name: onnx.ai
   url: https://onnx.ai
 - name: huggingface.co

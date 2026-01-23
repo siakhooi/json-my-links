@@ -16,3 +16,5 @@
   url: https://github.com/urfave/cli
 - name: cobra.dev
   url: https://cobra.dev
+- name: gomplate
+  url: https://gomplate.ca
