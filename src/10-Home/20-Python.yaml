@@ -1,5 +1,3 @@
-- name: PyPI/Siak Hooi (PIP Profile)
-  url: "https://pypi.org/user/siakhooi/"
 - name: htmligator
   url: https://github.com/siakhooi/htmligator
 - name: terminalizer2asciinema
