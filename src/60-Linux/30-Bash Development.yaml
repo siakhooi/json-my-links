@@ -1,5 +1,7 @@
 - name: ShellCheck.net
   url: https://www.shellcheck.net
+- name: shfmt
+  url: https://github.com/mvdan/sh
 - name: Bats Core
   url: https://github.com/bats-core/bats-core
 - name: Bats Core (Documentation)
