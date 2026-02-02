@@ -1,9 +1,9 @@
 - name: Firebase Webcounter Langkasuka
   url: https://github.com/siakhooi/firebase-webcounter-langkasuka
 - name: "@siakhooi/box-drawing (TS)"
-  url: https://github.com/siakhooi/ts-box-drawing
+  url: https://github.com/siakhooi/box-drawing
 - name: "@siakhooi/number-to-chinese-words (TS)"
-  url: https://github.com/siakhooi/ts-number-to-chinese-words
+  url: https://github.com/siakhooi/number-to-chinese-words
 - name: "siakhooi/siakhooi.github.io (TS)"
   url: https://github.com/siakhooi/siakhooi.github.io
 - name: scp-sync-to-local (JS)
