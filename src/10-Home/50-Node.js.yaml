@@ -1,17 +1,21 @@
-- name: Firebase Webcounter Langkasuka
-  url: https://github.com/siakhooi/firebase-webcounter-langkasuka
-- name: "@siakhooi/box-drawing (TS)"
+- name: Langkasuka Webcounter
+  url: https://github.com/siakhooi/webcounter
+  description: serverless web counter (firebase)
+- name: "@siakhooi/box-drawing"
   url: https://github.com/siakhooi/box-drawing
-- name: "@siakhooi/number-to-chinese-words (TS)"
+  description: typescript
+- name: "@siakhooi/number-to-chinese-words"
   url: https://github.com/siakhooi/number-to-chinese-words
-- name: "siakhooi/siakhooi.github.io (TS)"
+  description: typescript
+- name: "siakhooi.github.io"
   url: https://github.com/siakhooi/siakhooi.github.io
-- name: scp-sync-to-local (JS)
+  description: typescript
+- name: scp-sync-to-local
   url: https://github.com/siakhooi/nodejs-scp-sync-to-local
-  description: legacy
-- name: url-shortener (ExpressJs)
+  description: legacy, javascript
+- name: url-shortener
   url: https://github.com/siakhooi/expressjs-url-shortener
-  description: legacy
-- name: Tic Tac Toe (ReactJS Tutorial)
+  description: legacy, ExpressJs
+- name: Tic Tac Toe (Tutorial)
   url: https://github.com/siakhooi/reactjs-tutorial-tic-tac-toe/
-  description: legacy
+  description: legacy, ReactJs
